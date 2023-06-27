@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zeetextutility/static/css/main.073c9b0a.css",
+    "main.js": "/zeetextutility/static/js/main.51203896.js",
+    "static/js/787.28cb0dcd.chunk.js": "/zeetextutility/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/zeetextutility/index.html",
+    "main.073c9b0a.css.map": "/zeetextutility/static/css/main.073c9b0a.css.map",
+    "main.51203896.js.map": "/zeetextutility/static/js/main.51203896.js.map",
+    "787.28cb0dcd.chunk.js.map": "/zeetextutility/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.51203896.js"
+  ]
+}
